@@ -36,3 +36,4 @@ Lista de tareas pendientes para completar el proyecto.
 - [x] **Configurar Repositorio Git** (GitHub Sync Skill) y sincronizar. ✅
 - [ ] **Comprar dominio** (Ej: `dralvinbent.com`)
 - [ ] **Desplegar en Vercel o Firebase Hosting** (Ver DEPLOYMENT.md)
+- [ ] **Evaluar y configurar autenticación por SSH** (opcional, para entornos automatizados de servidor o desarrollo seguro sin contraseñas locales). Ver instrucciones en [ERRORS.md](file:///c:/Users/PC/OneDrive/Documents/proyecto%20consultorio/stitch_dr_bent_web%20(1)/stitch_dr_bent_web/ERRORS.md).

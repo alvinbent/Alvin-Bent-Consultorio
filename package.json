@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "sync": "git add . && git commit -m \"Update\" || true && git push"
+    "sync": "git add . && git commit -m \"Update\" || true && git push",
+    "sync:github": "bash scripts/sync-github.sh"
   },
   "keywords": [],
   "author": "",
